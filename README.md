@@ -14,6 +14,8 @@
    
     
 <div><br>
-    <a href="https://www.linkedin.com/in/geovana-cassimiro-774b93208/" target="_blank">
+  <a href="https://www.linkedin.com/in/geovana-cassimiro-774b93208/" target="_blank"><img height="40" width="40" src="https://cdn.discordapp.com/attachments/951166066644615181/951167879267618936/unknown.png" target="_blank"></a>
       
-      </div>
+
+
+     
