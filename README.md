@@ -13,5 +13,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="GE-pic" height="150" style="border-radius:50px;" src="https://br.pinterest.com/pin/718887159280105999/">
+  <img align="right" alt="GE-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/951166066644615178/951166066644615181/951166274669543515">
 </div>
